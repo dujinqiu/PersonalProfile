@@ -1,0 +1,75 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,black_jpg,Inside_A2_01_gif,tile_png,map_world_town_jpg,map_room_home_jpg,heroic_json,heroic_png,map_room_classroom_jpg,heroic_stand_down_gif,Actor1_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/black.jpg",
+			"type": "image",
+			"name": "black_jpg"
+		},
+		{
+			"url": "assets/Inside_A2_01.gif",
+			"type": "image",
+			"name": "Inside_A2_01_gif"
+		},
+		{
+			"url": "assets/tile.png",
+			"type": "image",
+			"name": "tile_png"
+		},
+		{
+			"url": "assets/map_world_town.jpg",
+			"type": "image",
+			"name": "map_world_town_jpg"
+		},
+		{
+			"url": "assets/map_room_home.jpg",
+			"type": "image",
+			"name": "map_room_home_jpg"
+		},
+		{
+			"url": "assets/heroic.json",
+			"type": "json",
+			"name": "heroic_json"
+		},
+		{
+			"url": "assets/heroic.png",
+			"type": "image",
+			"name": "heroic_png"
+		},
+		{
+			"url": "assets/map_room_classroom.jpg",
+			"type": "image",
+			"name": "map_room_classroom_jpg"
+		},
+		{
+			"name": "heroic_stand_down_gif",
+			"type": "image",
+			"url": "assets/heroic_stand_down.gif"
+		},
+		{
+			"name": "Actor1_jpg",
+			"type": "image",
+			"url": "assets/Actor1.jpg"
+		}
+	]
+}
